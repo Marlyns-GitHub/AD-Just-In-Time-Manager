@@ -37,4 +37,15 @@ Some requirements must be met before to use adjitmgr tool, make sure that PAM fe
    - Run adjitmgr.ps1 via PowerShell as admin
    - Select Username and Group
    - Time by minutes cannot be empty
-   - Checkbox must be ckeched
+   - Checkbox must be ckecked
+
+<img width="445" height="605" alt="Image" src="https://github.com/user-attachments/assets/0eee5494-5c8f-4a7f-b589-b15ef2bd57d3" />
+
+# Conclusion
+Identity alone doesn't create risk. Privilege does, Just-in-Time, increasing security, compliance and reduce attack surface.
+
+Continuous monitoring of critical security groups, user behaviors and abnormal traffic .
+
+# References
+
+
