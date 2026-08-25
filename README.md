@@ -1,7 +1,7 @@
 # AD-Just-In-Time-Manager
 Identity alone doesn't create risk. Privilege does
 
-1. Active Directory Just-in-Time
+# Active Directory Just-in-Time
 
 Just-In-Time (JIT) in the context of Active Directory (AD) refers to a model of granting privileges to a user for a limited period of time. This approach is supported by Privileged Access Management (PAM) feature.
 
