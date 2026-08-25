@@ -1,5 +1,5 @@
 # AD-Just-In-Time-Manager
-Identity alone doesn't create risk. Privilege does
+adjitmgr has a Graphical User Interface to manage Active Directory Just-in-Time.
 
 # Active Directory Just-in-Time
 
