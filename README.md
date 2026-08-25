@@ -19,7 +19,6 @@ Just-In-Time (JIT) align with the Auditing and compliance, it allows you to mini
    - Privileged access is granted only just-in-time and for limited duration
    - Reduces risk from credentials theft
    - Moving beyond standing privileged
-   - Eliminating standing privileged
    - Falicitate Auditing and Compliance
    - Zero trust alignment
 
