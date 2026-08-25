@@ -43,9 +43,13 @@ Some requirements must be met before to use adjitmgr tool, make sure that PAM fe
 # Conclusion
 Identity alone doesn't create risk. Privilege does, Just-in-Time, increasing security, compliance and reduce attack surface. Continuous monitoring of critical security groups, user behaviors and abnormal traffic.
 
+<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/94e1c265-3dcb-4f49-9ff4-4454137ca9b1" />
+
 # References
 - https://learn.microsoft.com/en-us/microsoft-identity-manager/pam/privileged-identity-management-for-active-directory-domain-services
 - https://www.isdecisions.com/en/blog/access-management/privileged-access-management-windows-active-directory
 - https://www.tenfold-security.com/en/windows-event-viewer-ids/
+
+
 
 
