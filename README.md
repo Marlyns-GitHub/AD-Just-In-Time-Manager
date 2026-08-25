@@ -25,7 +25,7 @@ Just-In-Time (JIT) align with the Auditing and compliance, it allows you to mini
 
 # AD Just-In-Time Process
 
-<img width="1206" height="588" alt="Image" src="https://github.com/user-attachments/assets/4a5f8eea-7e88-4bda-bcd8-06d83e77b043" />
+<img width="1206" height="588" alt="Image" src="https://github.com/user-attachments/assets/03ac11d3-a69a-444e-851e-d08502e43bd8" />
 
 # How to use
 
