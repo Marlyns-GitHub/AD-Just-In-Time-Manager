@@ -1,6 +1,6 @@
 # =============================================================================#
 #                             AD Just-In-Time Manager                          #
-#                          Developed by Marlyns NKUNGA                        #
+#                          Developed by Marlyns NKUNGA                         #
 #                              Free and Open Source                            #
 #                                Copyright © 2026                              #
 # =============================================================================#
