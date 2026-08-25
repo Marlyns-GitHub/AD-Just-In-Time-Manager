@@ -13,15 +13,15 @@ Active Directory Just-in-Time is native and managed via PowerShell cmdlet, it ca
 
 Just-In-Time (JIT) align with the Auditing and compliance, it allows you to minimize security risks by granting privileges only when needed and for limited duration.
 
-   # Enforce principe of least privilege
-   # No permenant domain admins membership
-   # Dynamic Privilege Assignment
-   # Privileged access is granted only just-in-time and for limited duration
-   # Reduces risk from credentials theft
-   # Moving beyond standing privileged
-   # Eliminating standing privileged
-   # Falicitate Auditing and Compliance
-   # Zero trust alignment
+   - Enforce principe of least privilege
+   - No permenant domain admins membership
+   - Dynamic Privilege Assignment
+   - Privileged access is granted only just-in-time and for limited duration
+   - Reduces risk from credentials theft
+   - Moving beyond standing privileged
+   - Eliminating standing privileged
+   - Falicitate Auditing and Compliance
+   - Zero trust alignment
 
 # AD Just-In-Time Process
 
@@ -31,10 +31,10 @@ Just-In-Time (JIT) align with the Auditing and compliance, it allows you to mini
 
 Some requirements must be met before to use adjitmgr tool, make sure that PAM feature is enabled into Active Directory. Otherwise use adpam.ps1 script to enable PAM feature.
 
-   # Forest functional level Windows Server 2016 or higher
-   # Administrator privilege
-   # Enable PAM feature using adpam.ps1 script
-   # Run adjitmgr.ps1 via PowerShell as admin
-   # Select Username and Group
-   # Time by minutes cannot be empty
-   # Checkbox must be ckeched
+   - Forest functional level Windows Server 2016 or higher
+   - Administrator privilege
+   - Enable PAM feature using adpam.ps1 script
+   - Run adjitmgr.ps1 via PowerShell as admin
+   - Select Username and Group
+   - Time by minutes cannot be empty
+   - Checkbox must be ckeched
