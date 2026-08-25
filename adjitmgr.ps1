@@ -1,6 +1,6 @@
 # =============================================================================#
 #                             AD Just-In-Time Manager                          #
-#                          Developped by Marlyns NKUNGA                        #
+#                          Developed by Marlyns NKUNGA                        #
 #                              Free and Open Source                            #
 #                                Copyright © 2026                              #
 # =============================================================================#
@@ -60,7 +60,7 @@ function Show-About {
         <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
             <TextBlock Text="AD Just-in-Time Manager" FontSize="18" FontWeight="Bold" Foreground="Black" TextAlignment="Center"/>
             <TextBlock Text="Version 1.0.0" FontSize="14" Foreground="Gray" TextAlignment="Center" Margin="0,5,0,5"/>
-            <TextBlock Text="Created by Marlyns NKUNGA" FontSize="14" Foreground="Black" TextAlignment="Center"/>
+            <TextBlock Text="Developed by Marlyns NKUNGA" FontSize="14" Foreground="Black" TextAlignment="Center"/>
             <TextBlock Text="Free, open source" FontSize="14" Foreground="Black" TextAlignment="Center"/>
             <TextBlock Text="Copyright © 2026" FontSize="12" Foreground="Gray" TextAlignment="Center"/>
             <Button Name="buttoncls" Content="Close" Width="100" Height="30" Margin="10" HorizontalAlignment="Center"/>
