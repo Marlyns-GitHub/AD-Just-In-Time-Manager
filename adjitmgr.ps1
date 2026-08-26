@@ -54,7 +54,8 @@ Import-Objects
 # Function
 function Show-About {
 [xml]$xaml = @"
-<Window xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+<Window 
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         Title="About" Height="250" Width="300" WindowStartupLocation="CenterScreen">
     <Grid Background="White">
         <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
