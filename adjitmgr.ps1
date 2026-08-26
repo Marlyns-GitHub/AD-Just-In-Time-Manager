@@ -56,6 +56,7 @@ function Show-About {
 [xml]$xaml = @"
 <Window 
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="About" Height="250" Width="300" WindowStartupLocation="CenterScreen">
     <Grid Background="White">
         <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
